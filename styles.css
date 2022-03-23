@@ -62,13 +62,11 @@ nav {
 .logo {
   width: 5rem;
   height: 5rem;
-  background-color: #eb3007;
   display: flex;
-  border-radius: 100%;
   margin-right: 5rem;
 }
 
-.logo i {
+.logo img {
   margin: auto;
   font-size: 3rem;
   color: #eee;
